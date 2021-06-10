@@ -1,0 +1,23 @@
+{
+  "manifest_version": 2,
+  "name": "Link Opener",
+  "version": "1.0.0",
+
+  "description": "An extension to open certain links in local programs",
+  "icons": {},
+
+  "permissions": [
+    "webRequest",
+		"webRequestBlocking",
+    "storage",
+    "<all_urls>"
+  ],
+  "background": {
+    "scripts": ["background.js"],
+		"persistent": true
+  },
+  "browser_action": {
+    "default_icon": "graphics/icon.png",
+    "default_popup": "popup/popup.html"
+  }
+}

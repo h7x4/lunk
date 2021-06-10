@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="40mm"
+   height="40mm"
+   viewBox="0 0 40.000001 40"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   sodipodi:docname="icon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:object-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:zoom="4"
+     inkscape:cx="76.875"
+     inkscape:cy="91.875"
+     inkscape:window-width="1914"
+     inkscape:window-height="1048"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     width="30.087069mm"
+     fit-margin-bottom="1"
+     fit-margin-top="1"
+     fit-margin-left="3.3"
+     fit-margin-right="3.3"
+     lock-margins="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid48124" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="powermask"
+       id="path-effect48049"
+       is_visible="true"
+       lpeversion="1"
+       uri="#mask-powermask-path-effect48049"
+       invert="false"
+       hide_mask="false"
+       background="true"
+       background_color="#ffffffff" />
+    <rect
+       x="278.92114"
+       y="362.5889"
+       width="288.76178"
+       height="336.49365"
+       id="rect2145" />
+    <rect
+       x="278.92114"
+       y="362.5889"
+       width="288.76178"
+       height="336.49365"
+       id="rect2145-3" />
+    <rect
+       x="278.92114"
+       y="362.5889"
+       width="288.76178"
+       height="336.49365"
+       id="rect2145-8" />
+    <rect
+       x="278.92114"
+       y="362.5889"
+       width="288.76178"
+       height="336.49365"
+       id="rect2145-6" />
+    <rect
+       x="278.92114"
+       y="362.5889"
+       width="288.76178"
+       height="336.49365"
+       id="rect2145-60" />
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask-powermask-path-effect48049">
+      <path
+         id="mask-powermask-path-effect48049_box"
+         style="fill:#ffffff;fill-opacity:1"
+         d="m 81.2388,98.259103 h 32.08707 V 134.9555 H 81.2388 Z" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264856px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 82.225713,99.258464 c 6.090188,0.34762 12.270359,0.265287 18.488827,0"
+         id="path48047"
+         sodipodi:nodetypes="cc" />
+    </mask>
+    <filter
+       id="mask-powermask-path-effect48049_inverse"
+       inkscape:label="filtermask-powermask-path-effect48049"
+       style="color-interpolation-filters:sRGB"
+       height="100"
+       width="100"
+       x="-50"
+       y="-50">
+      <feColorMatrix
+         id="mask-powermask-path-effect48049_primitive1"
+         values="1"
+         type="saturate"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         id="mask-powermask-path-effect48049_primitive2"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 "
+         in="fbSourceGraphic" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-78.9388,-98.259103)">
+    <g
+       id="g47566"
+       mask="url(#mask-powermask-path-effect48049)"
+       inkscape:path-effect="#path-effect48049"
+       inkscape:export-filename="/home/h7x4/git/link-opener/chrome-plugin/g47566.png"
+       inkscape:export-xdpi="108.05971"
+       inkscape:export-ydpi="108.05971"
+       transform="translate(1.656465,1.6518004)">
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,6.7643219,-8.9697253)"
+         id="text2143"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:pre;shape-inside:url(#rect2145);shape-padding:0;shape-margin:0;inline-size:0;opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"><tspan
+           x="278.92188"
+           y="540.18984"
+           id="tspan48156"><tspan
+             style="baseline-shift:baseline;shape-inside:url(#rect2145);vector-effect:none;stop-color:#000000;stop-opacity:1"
+             id="tspan48154">L</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,7.9007585,-8.9697253)"
+         id="text2143-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:pre;shape-inside:url(#rect2145-6);shape-padding:0;shape-margin:0;inline-size:0;vector-effect:none;fill:#ff6600;fill-opacity:1;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"><tspan
+           x="278.92188"
+           y="540.18984"
+           id="tspan48160"><tspan
+             style="baseline-shift:baseline;shape-inside:url(#rect2145-6);vector-effect:none;stop-color:#000000;stop-opacity:1"
+             id="tspan48158">L</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,8.9621915,-8.9697253)"
+         id="text2143-48"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:pre;shape-inside:url(#rect2145-60);shape-padding:0;shape-margin:0;inline-size:0;vector-effect:none;fill:#ffff00;fill-opacity:1;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"><tspan
+           x="278.92188"
+           y="540.18984"
+           id="tspan48164"><tspan
+             style="baseline-shift:baseline;shape-inside:url(#rect2145-60);vector-effect:none;stop-color:#000000;stop-opacity:1"
+             id="tspan48162">L</tspan></tspan></text>
+    </g>
+  </g>
+</svg>

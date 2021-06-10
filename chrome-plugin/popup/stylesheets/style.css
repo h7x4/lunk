@@ -1,0 +1,10 @@
+
+body {
+  width: 300px;
+}
+
+.setting {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
