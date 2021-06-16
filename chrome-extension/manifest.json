@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
-  "name": "Link Opener",
+  "name": "Lunk",
   "version": "1.0.0",
 
-  "description": "An extension to open certain links in local programs",
+  "description": "An extension to open specified links in local programs",
   "icons": {},
 
   "permissions": [

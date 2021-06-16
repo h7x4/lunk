@@ -1,6 +1,10 @@
 
 let EXT_SWITCH = true;
 
+chrome.storage.sync.get('globalOnOffSwitch', ({globalOnOffSwitch}) => {
+  EXT_SWITCH = globalOnOffSwitch ?? true;
+});
+
 chrome.storage.onChanged.addListener((changes, _) => {
   for (let [key, { oldValue, newValue }] of Object.entries(changes)) {
     if (key === 'globalOnOffSwitch') {
