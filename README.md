@@ -1,3 +1,13 @@
+### ARCHIVAL NOTE
+
+This project has been archived. It is unfinished.
+
+I used it as an opportunity to learn about daemons and socket communication.
+While I do believe that there is a real use case for this project,
+I do not intend to finish it.
+
+Feel free to pick up the code if you'd like.
+
 # Lunk
 
 Chrome extension that can open specified links with terminal commands
